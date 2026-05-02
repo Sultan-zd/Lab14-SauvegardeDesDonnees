@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SecureStorageLabJava</string>
+    <string name="label_name">Nom :</string>
+    <string name="hint_name">Entrez votre nom</string>
+    <string name="label_token">Token (Sécurisé) :</string>
+    <string name="hint_token">Entrez un jeton secret</string>
+    <string name="label_lang">Langue :</string>
+    <string name="label_dark_mode">Mode Sombre</string>
+    <string name="btn_save_prefs">Save Prefs</string>
+    <string name="btn_load_prefs">Load Prefs</string>
+    <string name="btn_save_json">Save JSON</string>
+    <string name="btn_load_json">Load JSON</string>
+    <string name="btn_clear_all">Tout Effacer</string>
+    <string name="result_placeholder">Résultat s\'affichera ici</string>
+</resources>
