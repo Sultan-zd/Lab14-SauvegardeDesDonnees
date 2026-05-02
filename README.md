@@ -2,7 +2,7 @@
 
 Ce projet est un laboratoire pratique sur les différentes méthodes de stockage de données sous Android, mettant l'accent sur les **bonnes pratiques de sécurité** et la protection des informations sensibles.
 
-**Dépôt GitHub :** [https://github.com/Sultan-zd/Lab14-SauvegardeDesDonn-es.git](https://github.com/Sultan-zd/Lab14-SauvegardeDesDonn-es.git)
+**Dépôt GitHub :** [https://github.com/Sultan-zd/Lab14-SauvegardeDesDonn-es.git](https://github.com/Sultan-zd/Lab14-SauvegardeDesDonnees.git)
 
 ## Objectifs du Lab
 - Maîtriser les différents types de stockage (SharedPreferences, Fichiers, JSON, Cache).
